@@ -1,5 +1,4 @@
-[
-  {
+{users:{
     "userId": 1,
     "id": 1,
     "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
@@ -149,4 +148,4 @@
     "title": "rem alias distinctio quo quis",
     "body": "ullam consequatur ut\nomnis quis sit vel consequuntur\nipsa eligendi ipsum molestiae et omnis error nostrum\nmolestiae illo tempore quia et distinctio"
   }
-]
+}
