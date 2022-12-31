@@ -1,4 +1,4 @@
 # Config
 
-- [.mockend.json](.mockend.json)
+- [.mockend.json](.mock.json)
 
